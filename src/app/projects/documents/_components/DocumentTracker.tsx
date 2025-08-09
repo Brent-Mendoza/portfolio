@@ -124,7 +124,7 @@ export default function DocumentTracker() {
               types, ensuring quick and efficient retrieval of information. The
               system also maintains a detailed log of document movements,
               including routing and receiving times, user actions, and any
-              modifications made to the document's status. This tracking
+              modifications made to the {`document's`} status. This tracking
               capability enhances accountability and transparency in document
               management processes, making it easier to monitor the lifecycle of
               each document from creation to final disposition.
