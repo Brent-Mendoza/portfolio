@@ -27,7 +27,7 @@ export default function Home() {
               Brent Mendoza
             </h1>
             <p className="text-2xl font-inter text-cyan-100 tracking-wider">
-              Frontend Developer
+              FullStack Developer
             </p>
           </div>
         </div>

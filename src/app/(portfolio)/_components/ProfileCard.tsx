@@ -46,7 +46,7 @@ export default function ProfileCard() {
       </div>
       <div className="mt-5 flex flex-wrap w-full items-center justify-center">
         <p className="font-inter text-sm text-white/90 tracking-wider">
-          Hello! I am a fresh graduate aspiring to become a Frontend Developer.
+          Hello! I am a fresh graduate aspiring to become a FullStack Developer.
           During my internship, I worked with Vue.js and Laravel, gaining
           practical experience in real-world projects. Outside of that, I have
           focused primarily on React and Next.js, which I have used extensively
